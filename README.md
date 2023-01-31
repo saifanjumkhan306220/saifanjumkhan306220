@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Md Saif Anjum Khan</h1>
-<h3 align="center">I'm a Student and Curious of New Ideas I am currently pursuing B.Tech. CSE with Sepcialisation in Artificial Intelligence and Machine Learning. My interest lies in the problems close to real-life. My future plans are to explore more about computer vision and resolve any real life problems. I like programming too much whatever difficulties doesn't matter. With the help of these i want to support aur nation.</h3>
+<h3 align="center">I am currently pursuing B.Tech. CSE with Sepcialisation in Artificial Intelligence and Machine Learning. My interest lies in the problems close to real-life. My future plans are to explore more about computer vision and resolve any real life problems. I like programming too much whatever difficulties doesn't matter. With the help of these i want to support aur nation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifanjumkhan306220&label=Profile%20views&color=0e75b6&style=flat" alt="saifanjumkhan306220" /> </p>
 
@@ -15,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saifanjumkhan91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifanjumkhan91" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md saif anjum khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md saif anjum khan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/brilliant tricks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="brilliant tricks" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdsaifanjumkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdsaifanjumkhan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@brillianttricks391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@brillianttricks391" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
