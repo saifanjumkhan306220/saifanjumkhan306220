@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Md Saif Anjum Khan</h1>
 <h3 align="center">I'm a Student and Curious of New Ideas I am currently pursuing B.Tech. CSE with Sepcialisation in Artificial Intelligence and Machine Learning. My interest lies in the problems close to real-life. My future plans are to explore more about computer vision and resolve any real life problems. I like programming too much whatever difficulties doesn't matter. With the help of these i want to support aur nation.</h3>
 
